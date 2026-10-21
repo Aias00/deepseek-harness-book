@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+<rect width="1200" height="1600" fill="#142c42"/>
+<rect x="96" y="120" width="12" height="1140" fill="#64d5c3"/>
+<text x="160" y="235" fill="#64d5c3" font-family="sans-serif" font-size="30" letter-spacing="5">工程导读 · 中文入门</text>
+<text x="155" y="460" fill="white" font-family="sans-serif" font-size="70">从零认识</text>
+<text x="155" y="595" fill="white" font-family="sans-serif" font-size="86" font-weight="bold">DeepSeek</text>
+<text x="155" y="710" fill="white" font-family="sans-serif" font-size="86" font-weight="bold">Harness</text>
+<text x="160" y="865" fill="#c0d6e4" font-family="sans-serif" font-size="37">面向小白的工程导读</text>
+<path d="M180 1040H400V1130H620V1040H840" fill="none" stroke="#64d5c3" stroke-width="5"/>
+<g fill="#142c42" stroke="#64d5c3" stroke-width="4"><circle cx="180" cy="1040" r="16"/><circle cx="400" cy="1130" r="16"/><circle cx="620" cy="1040" r="16"/><circle cx="840" cy="1040" r="16"/></g>
+<text x="160" y="1300" fill="#c0d6e4" font-family="sans-serif" font-size="30">用途 · 任务流程 · 插件 · 目录 · 排错</text>
+<text x="160" y="1430" fill="#64d5c3" font-family="sans-serif" font-size="28">2026 年 10 月 · 工作区版本导读</text>
+</svg>

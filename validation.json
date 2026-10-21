@@ -1,0 +1,22 @@
+{
+  "format": "EPUB 3",
+  "title": "从零认识 DeepSeek Harness",
+  "language": "zh-CN",
+  "main_chapters": 12,
+  "top_level_sections": 16,
+  "navigation_links": 70,
+  "chinese_characters_in_source": 10232,
+  "size_bytes": 41864,
+  "checks": [
+    "ZIP integrity and mimetype",
+    "XML parsing",
+    "manifest resources",
+    "local links and fragment targets",
+    "cover declaration",
+    "all chapters in navigation and reading order"
+  ],
+  "limitations": [
+    "EPUBCheck not run: Java runtime unavailable",
+    "Application launch and real model API not exercised"
+  ]
+}
