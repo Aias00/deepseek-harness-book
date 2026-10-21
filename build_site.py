@@ -13,7 +13,7 @@ body = subprocess.check_output([
     '--template=' + str(root / 'site-template.html'),
 ], text=True)
 (site / 'index.html').write_text(body)
-for source, target in [('site.css', 'site.css'), ('cover.svg', 'cover.svg'),
+for source, target in [('site.css', 'site.css'), ('reader.js', 'reader.js'), ('cover.svg', 'cover.svg'),
                        ('DeepSeek-Harness-小白入门.epub', 'deepseek-harness-book.epub')]:
     shutil.copyfile(root / source, site / target)
 (site / '.nojekyll').touch()
